@@ -18,6 +18,6 @@ if speak_to_grandma == "grandma"
   return "HUH?! SPEAK UP, SONNY1"
 elsif speak_to_grandma == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
-else
+else 
   return "NO, NOT SINCE 1938!"
-  END
+end 
