@@ -18,7 +18,7 @@ if speak == speak.upcase
    return "NO, NOT SINCE 1938!"
 elsif speak == "I LOVE YOU GRANDMA!"
    return "I LOVE YOU TOO PUMPKIN!"
-elsif speak == "grandma"
+elsif speak == spead.downcase
    return "HUH?! SPEAK UP, SONNY!"
 end
 end
