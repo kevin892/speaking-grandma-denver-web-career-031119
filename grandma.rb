@@ -15,7 +15,7 @@
 speak_to_grandma = gets.chomp
 
 if speak_to_grandma == "grandma"
-  return "HUH?! SPEAK UP, SONNY1"
+  puts "HUH?! SPEAK UP, SONNY1"
 elsif speak_to_grandma == "I LOVE YOU GRANDMA!"
-  return "I LOVE YOU TOO PUMPKIN!"
+  puts "I LOVE YOU TOO PUMPKIN!"
   END
